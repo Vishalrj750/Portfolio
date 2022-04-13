@@ -51,13 +51,13 @@ export default class SimpleSlider extends Component {
             <img src="KFC1.png" alt=""/>
             <h3>KFC Clone</h3>
             <div className="view">
-              <a href="https://github.com/Vishalrj750/Final_Kfc_Repo">
+              <a href="https://github.com/Vishalrj750/Final_Kfc_Repo" target={'_blank'}>
                 <div className="pDiv">
                   <img src="output-onlinegiftools (1).gif" alt="view_gif"/>
                   <div><h3>View Code</h3></div>
                 </div>
               </a>
-              <a href="https://jolly-hawking-c11904.netlify.app/">
+              <a href="https://jolly-hawking-c11904.netlify.app/" target={'_blank'}>
                 <div className="pDiv">
                   <img src="output-onlinegiftools.gif" alt="live_gif"/>
                   <div><h3>Live Preview</h3></div>
@@ -67,17 +67,17 @@ export default class SimpleSlider extends Component {
           </div>
 
           <div className="carousel">
-            <img src="Bookmyshow1.png" alt=""/>
-            <h3>Bookmyshow Clone</h3>
+            <img src="myntra.png" alt=""/>
+            <h3>Myntra Clone</h3>
 
             <div className="view">
-              <a href="https://github.com/vikalpvarshney1/team8">
+              <a href="https://github.com/Vishalrj750/Myntra_Clone.git" target={'_blank'}>
                 <div className="pDiv">
                   <img src="output-onlinegiftools (1).gif" alt="view_gif"/>
                   <div><h3>View Code</h3></div>
                 </div>
               </a>
-              <a href="vikalpbookmyshow.netlify.app">
+              <a href="https://myntracloneusingredux.netlify.app/" target={'_blank'}>
                 <div className="pDiv">
                   <img src="output-onlinegiftools.gif" alt="live_gif"/>
                   <div><h3>Live Preview</h3></div>
@@ -87,6 +87,45 @@ export default class SimpleSlider extends Component {
           </div>
 
           <div className="carousel">
+            <img src="KFC1.png" alt=""/>
+            <h3>KFC Clone</h3>
+            <div className="view">
+              <a href="https://github.com/Vishalrj750/Final_Kfc_Repo" target={'_blank'}>
+                <div className="pDiv">
+                  <img src="output-onlinegiftools (1).gif" alt="view_gif"/>
+                  <div><h3>View Code</h3></div>
+                </div>
+              </a>
+              <a href="https://jolly-hawking-c11904.netlify.app/" target={'_blank'}>
+                <div className="pDiv">
+                  <img src="output-onlinegiftools.gif" alt="live_gif"/>
+                  <div><h3>Live Preview</h3></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <div className="carousel">
+            <img src="myntra.png" alt=""/>
+            <h3>Myntra Clone</h3>
+
+            <div className="view">
+              <a href="https://github.com/Vishalrj750/Myntra_Clone.git" target={'_blank'}>
+                <div className="pDiv">
+                  <img src="output-onlinegiftools (1).gif" alt="view_gif"/>
+                  <div><h3>View Code</h3></div>
+                </div>
+              </a>
+              <a href="https://myntracloneusingredux.netlify.app/" target={'_blank'}>
+                <div className="pDiv">
+                  <img src="output-onlinegiftools.gif" alt="live_gif"/>
+                  <div><h3>Live Preview</h3></div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          {/* <div className="carousel">
             <img src="Tourmyindia.png" alt=""/>
             <h3>Tourmyindia Clone</h3>
 
@@ -124,19 +163,19 @@ export default class SimpleSlider extends Component {
                 </div>
               </a>
             </div>
-          </div>
+          </div> */}
 
           <div className="carousel">
             <img src="KFC2.png" alt=""/>
             <h3>KFC Clone</h3>
             <div className="view">
-              <a href="https://github.com/Vishalrj750/Final_Kfc_Repo">
+              <a href="https://github.com/Vishalrj750/Final_Kfc_Repo" target={'_blank'}>
                 <div className="pDiv">
                   <img src="output-onlinegiftools (1).gif" alt="view_gif"/>
                   <div><h3>View Code</h3></div>
                 </div>
               </a>
-              <a href="https://jolly-hawking-c11904.netlify.app/">
+              <a href="https://jolly-hawking-c11904.netlify.app/" target={'_blank'}>
                 <div className="pDiv">
                   <img src="output-onlinegiftools.gif" alt="live_gif"/>
                   <div><h3>Live Preview</h3></div>
@@ -146,17 +185,17 @@ export default class SimpleSlider extends Component {
           </div>
 
           <div className="carousel">
-            <img src="Bookmyshow2.png" alt=""/>
+            <img src="myntra.png" alt=""/>
             <h3>Bookmyshow Clone</h3>
 
             <div className="view">
-              <a href="https://github.com/vikalpvarshney1/team8">
+              <a href="https://github.com/Vishalrj750/Myntra_Clone.git" target={'_blank'}>
                 <div className="pDiv">
                   <img src="output-onlinegiftools (1).gif" alt="view_gif"/>
                   <div><h3>View Code</h3></div>
                 </div>
               </a>
-              <a href="vikalpbookmyshow.netlify.app">
+              <a href="https://myntracloneusingredux.netlify.app/" target={'_blank'}>
                 <div className="pDiv">
                   <img src="output-onlinegiftools.gif" alt="live_gif"/>
                   <div><h3>Live Preview</h3></div>

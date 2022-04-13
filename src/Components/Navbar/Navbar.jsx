@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="navbar">
             
             <div className="myLogoDiv">
-                <img src="Manish Kumar1_white.gif" alt="my_logo" />
+                <img src="Vishal_singh.gif" alt="my_logo" />
             </div>
 
             <div className="menu">
@@ -72,15 +72,15 @@ const Navbar = () => {
                 </div>
 
                 <div className="childDiv">
-                    <div>
+                    {/* <div>
                         <a href="#">
                             <img src="Resume.png" alt="resume_logo"/>
                         </a>
-                    </div>
+                    </div> */}
 
-                    <div className="textDiv">
+                    {/* <div className="textDiv">
                         <a href="#">Resume</a>
-                    </div>
+                    </div> */}
                     
                 </div>
 

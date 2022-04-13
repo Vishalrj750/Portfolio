@@ -7,9 +7,18 @@
 .about h1 {
     font-size: 40px;
     font-weight: 900;
+    color: blue;
 }
 
-.about p {
+/* .about p {
     font-size: 25px;
     font-weight: 800;
+} */
+
+.paira {
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+    font-weight: bold;
 }
